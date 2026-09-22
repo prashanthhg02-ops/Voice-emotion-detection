@@ -1,4 +1,8 @@
 # Voice-emotion-detection
+
+output link:--http://localhost:5173/
+
+
 Voice Emotion Detection
 Voice emotion detection is a technology that identifies a person’s emotional state by analyzing their speech and voice characteristics.
 
